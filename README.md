@@ -16,3 +16,10 @@ O programa possui também uma trilha sonora tematizada com os anos 80.
 Para cada colisão um efetito sonoro de batida é acionado e para cada ponto somado, um som de crédito também é acionado.
 
 Foi um projeto simples, porém muito divertido de ser realizado.
+
+#  Como  jogar
+
+Abrir o editor p5.js acessando o link: https://editor.p5js.org/
+Baixar os meus arquivos de dentro do GitHub.
+Importar todos eles para dentro do editor p5.js.
+Apertar o "run" e começar a jogar.
